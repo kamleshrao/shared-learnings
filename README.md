@@ -1,2 +1,2 @@
-# shared-learnings
-My shared Learning Solutions
+# My Shared Learning Solutions
+
